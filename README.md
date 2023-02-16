@@ -7,12 +7,12 @@ Description
 A simple implementation of a 3-layer perceptron built on Python 3.10 using NumPy, SciPy and Matplotlib. Project runs from the shell, no additional GUI features are presented.
 
 <details open>
-<summary>Configuration</summary>
-  * input nodes = 784  
-  * output nodes = 10  
-  * hidden nodes = 200 (default value, may be changed)  
-  * learning coefficient = 0.1 (also may be changed)  
-  * number of epochs = 5 (may be changed)
+<summary>Configuration</summary>  
+* input nodes = 784  
+* output nodes = 10  
+* hidden nodes = 200 (default value, may be changed)  
+* learning coefficient = 0.1 (also may be changed)  
+* number of epochs = 5 (may be changed)
   
 Sigmoid function was choisen as the activation function.
   
