@@ -27,3 +27,9 @@ Additional functionality
 ------------------------
 
 Additionaly, two more functions for reverse queries over the network were implemented. The main (and only purpose) was to better understand how the neural network "sees" the dataset. After running some tests it became clear that lower network efficiency provides a clearer picture of the digit as an output.
+
+Files contents
+--------------
+* _mnist_test.csv_ and _mnist_train.csv_: default datasets for testing and training the NN. Full MNIST dataset, 10k and 60k records respectively.
+* _mnist_test_10.csv and _mnist_train_100.csv_: shortened versions of the datasets mentioned above. Both were very useful duting debug process.
+* _wih.csv_ and _who.csv_: auto-generated files containing the training results. Both created and used on user's demand only. 
