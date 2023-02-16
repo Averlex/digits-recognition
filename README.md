@@ -30,6 +30,9 @@ Additional functionality
 
 Additionaly, two more functions for reverse queries over the network were implemented. The main (and only purpose) was to better understand how the neural network "sees" the dataset. After running some tests it became clear that lower network efficiency provides a clearer picture of the digit as an output.
 
+###### A sample of the neural's network reversed process:
+![alt text](https://github.com/Averlex/digits-recognition/blob/master/nn_reverse_work_res.png "The neural network results (reversed)")
+
 Files contents
 --------------
 * **_mnist_test.csv_** and **_mnist_train.csv_**: default datasets for testing and training the NN. Full MNIST dataset, 10k and 60k records respectively.
