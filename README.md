@@ -1,4 +1,4 @@
-## first_neural
+# Digits recognition
 ###### A small neural network project which was done for practice.
 
 ###### Desctiption
