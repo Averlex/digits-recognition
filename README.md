@@ -6,8 +6,8 @@ Description
 
 A simple implementation of a 3-layer perceptron built on Python 3.10 using NumPy, SciPy and Matplotlib. Project runs from the shell, no additional GUI features are presented.
 
-<details open>
-<summary>Configuration</summary>  
+Configuration
+-------------
 1. Input nodes: 784  
 2. Output nodes: 10  
 3. Hidden nodes: 200 (default value, may be changed)  
@@ -15,8 +15,6 @@ A simple implementation of a 3-layer perceptron built on Python 3.10 using NumPy
 5. Number of epochs: 5 (may be changed)
   
 Sigmoid function was choisen as the activation function.
-  
-</details>
 
 Datasets
 --------
