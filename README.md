@@ -30,6 +30,6 @@ Additionaly, two more functions for reverse queries over the network were implem
 
 Files contents
 --------------
-* _mnist_test.csv_ and _mnist_train.csv_: default datasets for testing and training the NN. Full MNIST dataset, 10k and 60k records respectively.
-* *mnist_test_10.csv* and _mnist_train_100.csv_: shortened versions of the datasets mentioned above. Both were very useful duting debug process.
-* _wih.csv_ and _who.csv_: auto-generated files containing the training results. Both created and used on user's demand only. 
+* **_mnist_test.csv_** and **_mnist_train.csv_**: default datasets for testing and training the NN. Full MNIST dataset, 10k and 60k records respectively.
+* _**mnist_test_10.csv**_ and **_mnist_train_100.csv_**: shortened versions of the datasets mentioned above. Both were very useful duting debug process.
+* **_wih.csv_** and **_who.csv_**: auto-generated files containing the training results. Both created and used on user's demand only. 
