@@ -10,11 +10,12 @@ Configuration
 -------------
 1. Input nodes: 784  
 2. Output nodes: 10  
-3. Hidden nodes: 200 (default value, may be changed)  
-4. Learning coefficient: 0.1 (also may be changed)  
-5. Number of epochs: 5 (may be changed)
+3. Hidden nodes: 200
+4. Learning coefficient: 0.1
+5. Number of epochs: 5
   
-Sigmoid function was choisen as the activation function.
+Sigmoid function was choisen as the activation function.  
+List items 3 - 5 may be changed at runtime.
 
 Datasets
 --------
