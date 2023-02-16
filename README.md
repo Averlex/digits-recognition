@@ -1,6 +1,8 @@
 # Digits recognition
 ###### A small neural network project which was done for practice.
 
+![alt text](https://github.com/Averlex/digits-recognition/blob/master/nn_work_res.png "The neural network results")
+
 Description
 -----------
 
